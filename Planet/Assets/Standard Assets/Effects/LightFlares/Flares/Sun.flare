@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sun
+  m_FlareTexture: {fileID: 2800000, guid: 793b7b36728523843a2fcf8016da5af9, type: 3}
+  m_TextureLayout: 1
+  m_Elements:
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 39.15
+    m_Color: {r: 1, g: 0.94867593, b: 0.8773585, a: 1}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 0
+    m_Size: 30.3
+    m_Color: {r: 0.2924528, g: 0.21158408, b: 0, a: 1}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 5
+    m_Position: 0.4
+    m_Size: 3.9
+    m_Color: {r: 0.13207549, g: 0.095094346, b: 0, a: 1}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 5
+    m_Position: 0.3
+    m_Size: 6.17
+    m_Color: {r: 0.13207549, g: 0.095094346, b: 0, a: 1}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  m_UseFog: 1
+--- !u!1002 &12100001
+EditorExtensionImpl:
+  serializedVersion: 6
